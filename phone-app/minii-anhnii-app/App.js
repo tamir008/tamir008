@@ -15,7 +15,7 @@ export default function App() {
       <Button title='CLICKS' onPress={()=>alert('BUTTON')}/>
       
       <StatusBar style="auto" />
-      </View>
+      </View> 
       </ScrollView>
     </SafeAreaView>
   );
